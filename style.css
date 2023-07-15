@@ -1,0 +1,100 @@
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background-color: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #9291a2;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+}
+
+.note-panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.note-panel line {
+    stroke-width: 3;
+    stroke: #000000;
+}
+
+.fretboard {
+    overflow-x: auto;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.note-panel .shift-arrow {
+    stroke-width: 3;
+    stroke: #000000;
+    fill: #000000;
+}
+
+.note-panel text {
+    font-size: 15;
+    font-family: Courier;
+    stroke: white;
+    user-select: none;
+    pointer-events: none;
+}
+
+.note-panel circle {
+    fill: grey;
+    stroke: white;
+}
+
+.fretboard circle {
+    stroke: white;
+}
+
+circle.note01 {
+    fill: #f2220f;
+}
+
+circle.note08 {
+    fill: #f28907;
+}
+
+circle.note03 {
+    fill: #f2b807;
+}
+
+circle.note10 {
+    fill: #bebc32;
+}
+
+circle.note05 {
+    fill: #3d8f2d;
+}
+
+circle.note12 {
+    fill: #2bc17e;
+}
+
+circle.note07 {
+    fill: #37b5be;
+}
+
+circle.note02 {
+    fill: #0383ce;
+}
+
+circle.note09 {
+    fill: #0000FF;
+}
+
+circle.note04 {
+    fill: #7039a7;
+}
+
+circle.note11 {
+    fill: #FF00FF;
+}
+
+circle.note06 {
+    fill: #FF007F;
+}
