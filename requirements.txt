@@ -1,0 +1,8 @@
+mike
+mkdocs
+mkdocs-get-deps
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-mermaid2-plugin
+mkdocs-simple-hooks
+mdx_truly_sane_lists
