@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Family Recipes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Chocolate Chip Cookies](chocolate-chip-cookies.md)
+- [Cinnamon Rolls](cinnamon-rolls.md)
+- [Gingerbread Cookies](gingerbread-cookies.md)
+- [Ground Beef Chili](ground-beef-chili.md)
+- [Green Bean with Caramelized Shallots](green-beans-with-caramelized-shallots.md)
+- [Ham and Gruyere Egg Bites](ham-and-gruyere-egg-bites.md)
