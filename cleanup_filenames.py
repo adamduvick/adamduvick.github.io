@@ -1,7 +1,23 @@
 from pathlib import Path
 import shutil
 
-for file in Path("./").glob("*.md"):
+
+def rename(file):
     dest = file.with_stem("-".join(file.stem.lower().split()))
     if file != dest:
         shutil.move(file, dest)
+    return dest
+
+nav, index = [], []
+for file in Path("./docs").glob("*.md"):
+    dest = rename(file)
+    title = " ".join(dest.stem.split("-")).title()
+
+    nav_entry = f"    - {title}: {file.name}"
+    nav.append(nav_entry)
+
+    index_entry = f"- [{title}]({dest.name})"
+    index.append(index_entry)
+
+print("\n".join(nav))
+print("\n".join(index))

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5100c3bf506760f2",
+        "id": "20b28d5eefde8269",
         "type": "tabs",
         "children": [
           {
-            "id": "071ed2518b5b8629",
+            "id": "efe69bd58e3fe7cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ground-beef-chili.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ground-beef-chili"
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071ed2518b5b8629",
+  "active": "efe69bd58e3fe7cd",
   "lastOpenFiles": [
+    "templates/recipe.md",
+    "docs/blueberries-'n'-cream.md",
+    "docs/Cheeseburger Soup.md",
+    "docs/Easy Chicken Divan.md",
+    "docs/Blueberries 'n' Cream.md",
+    "docs/cheeseburger-soup.md",
+    "docs/broccoli-salad.md",
+    "docs/easy-chicken-divan.md",
+    "docs/Broccoli Salad.md",
+    "templates",
     "ham-and-gruyere-egg-bites.md",
     "ground-beef-chili.md",
     "green-beans-with-caramelized-shallots.md",
