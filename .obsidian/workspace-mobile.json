@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/roasted broccoli.md",
+                "file": "docs/ground-beef-chili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roasted broccoli"
+              "title": "ground-beef-chili"
             }
           }
         ]
@@ -149,8 +149,14 @@
   },
   "active": "2da5000a33314d3c",
   "lastOpenFiles": [
-    "docs/guacamole.md",
     "docs/roasted broccoli.md",
+    "docs/carnitas-spice-mixture.md",
+    "docs/roasted-broccoli.md",
+    "docs/egg-wash.md",
+    "docs/chicken-and-broccoli-braid.md",
+    "docs/cuban-black-beans.md",
+    "docs/fluff-'n'-blueberries.md",
+    "docs/guacamole.md",
     "docs/Cuban-black-beans.md",
     "docs/cold-brew.md"
   ]

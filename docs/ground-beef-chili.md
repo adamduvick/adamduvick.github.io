@@ -20,7 +20,7 @@ Ground beef chili is convenient, but its texture is often dry and grainy. This r
 - 2 tablespoons + 2 cups water
 - Salt and pepper
 - 3/4 teaspoon baking soda
-- 6 dried ancho chiles, stemmed, seeded, and torn into 1-inch pieces
+- 6 (68 g.) dried ancho chiles, stemmed, seeded, and torn into 1-inch pieces
 - 1 ounce tortilla chips, crushed (1/4 cup)
 - 2 tablespoons ground cumin
 - 1 tablespoon paprika
