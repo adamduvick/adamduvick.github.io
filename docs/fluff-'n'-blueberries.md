@@ -1,4 +1,4 @@
-# Blueberries 'n' Cream (aka Fluff 'n' Blueberries)
+# Fluff 'n' Blueberries
 
 ## Ingredients
 
@@ -43,4 +43,6 @@
    2. Add the remaining fluff mixture and sprinkle reserved graham cracker crumbs.
    3. Cover and chill for 2-24 hours before serving.
 
-source:  Ami Duvick
+---
+
+source:  Mom

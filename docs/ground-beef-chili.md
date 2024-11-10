@@ -59,7 +59,7 @@ Ground beef chili is convenient, but its texture is often dry and grainy. This r
 - Optional garnishes: diced avocado, sour cream, shredded Monterey Jack or cheddar cheese
 - Serve with tortilla chips and/or steamed white rice
 - Can be made up to 3 days in advance
-- Don't skim the fat - it contains important flavor compounds from the spices
+- Don't skim the fat—it contains important flavor compounds from the spices
 
 ## Nutrition Information
 
@@ -72,6 +72,9 @@ Per Serving:
 - Sugar: 3g
 - Protein: 22g
 
-*Recipe from America's Test Kitchen*
 
-https://www.americastestkitchen.com/recipes/8564-best-ground-beef-chili
+---
+
+source: Adam
+
+attribution: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8564-best-ground-beef-chili)

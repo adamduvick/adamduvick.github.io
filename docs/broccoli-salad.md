@@ -14,4 +14,6 @@
 2. Slice or chop celery; slice olives.
 3. Add all ingredients to a large bowl and stir to combine.
 
-source: unknown
+---
+
+source: Mom

@@ -10,10 +10,13 @@ def rename(file):
 
 nav, index = [], []
 for file in Path("./docs").glob("*.md"):
+    if file.name == "index.md":
+        continue
+
     dest = rename(file)
     title = " ".join(dest.stem.split("-")).title()
 
-    nav_entry = f"    - {title}: {file.name}"
+    nav_entry = f"    - {title}: \"{file.name}\""
     nav.append(nav_entry)
 
     index_entry = f"- [{title}]({dest.name})"

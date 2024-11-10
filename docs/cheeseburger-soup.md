@@ -19,7 +19,11 @@
 
 ## Directions
 
-1. Brown beef; drain and set aside. In the same pan, sauté onions, carrots, celery, basil, and parsley ***in some of the butter*** until vegetables are tender, about 10 minutes. Add broth., potatoes and beef. Bring to a boil. Reduce heat, cover and simmer for 10–12 minutes or until potatoes are tender. #todo
-2. Meanwhile, in a small skillet, melt the remaining butter. Add flour, cook and stir for 3–5 minutes or until bubble. Add to soup, bring to a boil. Cook and stir for 2 minutes. Reduce heat to low. Add cheese milk, salt, and pepper cook and stir until cheese melts. Remove from heat; stir in sour cream.
+1. Brown beef; drain and set aside. In the same pan, sauté onions, carrots, celery, basil, and parsley 1 tbsp of butter until vegetables are tender, about 10 minutes. Add broth., potatoes and beef. Bring to a boil. Reduce heat, cover, and simmer for 10–12 minutes or until potatoes are tender.
+2. Meanwhile, in a small skillet, melt the remaining butter. Add flour, cook, and stir for 3–5 minutes or until bubble. Add to soup, bring to a boil. Cook and stir for 2 minutes. Reduce heat to low. Add cheese milk, salt, and pepper cook and stir until cheese melts. Remove from heat; stir in sour cream.
    
-source: Tracy Boothe
+---
+
+source: Mom
+
+attribution: Tracy Boothe

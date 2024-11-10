@@ -79,4 +79,9 @@ You can use store-bought or a homemade frosting, it is totally up to you. Typica
 
 Time to eat them! You can eat them as is, or dip them in some milk or hot chocolate, however you like them. Enjoy!
 
-https://www.inthekitchenwithmatt.com/gingerbread-cookies
+---
+
+source: Megan
+
+attribution: [In the Kitchen With Matt](https://www.inthekitchenwithmatt.com/gingerbread-cookies)
+

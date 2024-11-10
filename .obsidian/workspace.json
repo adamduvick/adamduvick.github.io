@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20b28d5eefde8269",
+        "id": "adcf5c65a33de79c",
         "type": "tabs",
         "children": [
           {
-            "id": "efe69bd58e3fe7cd",
+            "id": "f47ee823b8359749",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/chicken-and-broccoli-braid.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "chicken-and-broccoli-braid"
             }
           }
         ]
@@ -158,26 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efe69bd58e3fe7cd",
+  "active": "f47ee823b8359749",
   "lastOpenFiles": [
+    "docs/ham-and-gruyere-egg-bites.md",
+    "docs/ground-beef-chili.md",
+    "docs/green-beans-with-caramelized-shallots.md",
+    "docs/easy-chicken-divan.md",
+    "docs/chocolate-chip-cookies.md",
+    "docs/chicken-and-broccoli-braid.md",
+    "docs/cheeseburger-soup.md",
+    "docs/broccoli-salad.md",
+    "docs/fluff-'n'-blueberries.md",
     "templates/recipe.md",
-    "docs/blueberries-'n'-cream.md",
+    "docs/Fluff 'n' Blueberries.md",
+    "docs/egg-wash.md",
+    "docs/Chicken and Broccoli Braid.md",
+    "docs/cinnamon-rolls.md",
+    "docs/gingerbread-cookies.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/ham-and-gruyere-egg-bites/index.html",
+    "site/ham-and-gruyere-egg-bites",
+    "site/ground-beef-chili/index.html",
+    "site/ground-beef-chili",
+    "site/green-beans-with-caramelized-shallots/index.html",
+    "site/green-beans-with-caramelized-shallots",
+    "site/gingerbread-cookies/index.html",
+    "site/gingerbread-cookies",
+    "site/assets/images/favicon.png",
     "docs/Cheeseburger Soup.md",
     "docs/Easy Chicken Divan.md",
     "docs/Blueberries 'n' Cream.md",
-    "docs/cheeseburger-soup.md",
-    "docs/broccoli-salad.md",
-    "docs/easy-chicken-divan.md",
     "docs/Broccoli Salad.md",
-    "templates",
     "ham-and-gruyere-egg-bites.md",
     "ground-beef-chili.md",
     "green-beans-with-caramelized-shallots.md",
     "gingerbread-cookies.md",
     "cinnamon-rolls.md",
     "chocolate-chip-cookies.md",
-    "Ground Beef Chili.md",
-    "cinnamon rolls.md",
-    "cleanup_filenames.py"
+    "Ground Beef Chili.md"
   ]
 }

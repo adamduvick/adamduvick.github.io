@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 3 tablespoons butter
+- 3 tbsp. butter
 - 6 shallots, peeled and thinly sliced into rings
 - Coarse salt and ground pepper
-- 1 pound green beans, trimmed
+- 1 lb. green beans, trimmed
 
 ## Instructions
 
@@ -15,4 +15,8 @@
 
 3. Transfer green beans to a serving dish; top with caramelized shallots.
 
-https://www.marthastewart.com/338776/green-beans-with-caramelized-shallots
+---
+
+source: Adam
+
+attribution: [Martha Stewart](https://www.marthastewart.com/338776/green-beans-with-caramelized-shallots)

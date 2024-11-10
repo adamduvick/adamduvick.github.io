@@ -88,4 +88,9 @@ Once the cookies come out of the oven, you will notice a little browning around 
 
 Serve them warm, or cool if you like. Notice the bottom of the cookie, nice brown color. 🙂 Enjoy those cookies with your friends and family!
 
-https://www.inthekitchenwithmatt.com/soft-chewy-chocolate-chip-cookies
+---
+
+source: Megan
+
+attribution: [In the Kitchen With Matt](https://www.inthekitchenwithmatt.com/soft-chewy-chocolate-chip-cookies)
+
