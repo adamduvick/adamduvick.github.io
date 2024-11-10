@@ -16,7 +16,7 @@ for file in Path("./docs").glob("*.md"):
     dest = rename(file)
     title = " ".join(dest.stem.split("-")).title()
 
-    nav_entry = f"    - {title}: \"{file.name}\""
+    nav_entry = f"    - {title}: \"{dest.name}\""
     nav.append(nav_entry)
 
     index_entry = f"- [{title}]({dest.name})"

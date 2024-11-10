@@ -1852,9 +1852,21 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2024-11-10T01:04:19.769Z",
+        "lastUsed": "2024-11-10T01:04:19.769Z",
+        "useCount": 1,
+        "codepoint": "–"
+      },
+      {
+        "firstUsed": "2024-11-10T01:04:12.946Z",
+        "lastUsed": "2024-11-10T01:04:12.946Z",
+        "useCount": 1,
+        "codepoint": "—"
+      },
+      {
         "firstUsed": "2024-11-09T23:52:30.513Z",
-        "lastUsed": "2024-11-10T00:28:40.021Z",
-        "useCount": 2,
+        "lastUsed": "2024-11-10T00:57:13.099Z",
+        "useCount": 3,
         "codepoint": "℉"
       }
     ]
