@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Bacon 'n' Pasta Parmesan
 
 ## Ingredients
 

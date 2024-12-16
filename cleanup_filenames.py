@@ -22,5 +22,5 @@ for file in Path("./docs").glob("*.md"):
     index_entry = f"- [{title}]({dest.name})"
     index.append(index_entry)
 
-print("\n".join(nav))
-print("\n".join(index))
+print("\n".join(sorted(nav)))
+print("\n".join(sorted(index)))

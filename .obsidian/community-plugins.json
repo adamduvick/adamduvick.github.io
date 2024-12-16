@@ -2,5 +2,7 @@
   "obsidian-languagetool-plugin",
   "obsidian-better-command-palette",
   "obsidian-emoji-toolbar",
-  "unicode-search"
+  "unicode-search",
+  "templater-obsidian",
+  "obsidian-smart-typography"
 ]

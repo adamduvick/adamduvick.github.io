@@ -2,24 +2,24 @@
 
 ## Ingredients
 
-- **Base**
+**Base:**
 
-  - 2 c. graham crackers crumbs
-  - 1/2 c. melted butter
+- 2 c. graham crackers crumbs
+- 1/2 c. melted butter
 
-- **Blueberries**
+**Blueberries:**
 
-  - 1/2 c. sugar
-  - 3 c. fresh or frozen blueberries
-  - 1/4 c. cornstarch
-  - 1/2 c. water
+- 1/2 c. sugar
+- 3 c. fresh or frozen blueberries
+- 1/4 c. cornstarch
+- 1/2 c. water
 
-- **Fluff**
+**Fluff:**
 
-  - 2 (8 oz.) pkg. softened cream cheese
-  - 1 1/2 c. sugar
-  - 2 tsp. vanilla
-  - 1 c. whipping cream
+- 2 (8 oz.) pkg. softened cream cheese
+- 1 1/2 c. sugar
+- 2 tsp. vanilla
+- 1 c. whipping cream
 
 ## Directions
 

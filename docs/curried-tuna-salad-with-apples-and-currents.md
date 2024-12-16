@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Curried Tuna Salad with Apples and Currents
 
 ## Ingredients
 

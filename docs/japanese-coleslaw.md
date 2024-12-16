@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Japanese Coleslaw
 
 ## Ingredients
 

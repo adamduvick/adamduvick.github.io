@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Chocolate Logs
 
 ## Ingredients
 

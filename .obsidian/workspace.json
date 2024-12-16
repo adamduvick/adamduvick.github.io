@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "docs/spaghetti-sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "spaghetti-sauce"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a4d53ee79f2a36ab",
@@ -159,46 +160,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f47ee823b8359749",
   "lastOpenFiles": [
-    "docs/carnitas.md",
-    "docs/vanilla-sweet-cream.md",
+    "docs/delicate-lemon-squares.md",
+    "docs/peanut-butter-bon-bons.md",
+    "docs/fluff-'n'-blueberries.md",
+    "docs/garlic-parmesan-baked-halibut.md",
+    "docs/italian-beef.md",
+    "docs/mary's-sloppy-joes.md",
+    "docs/white-chicken-chili.md",
+    "docs/kim's-coleslaw.md",
+    "docs/beer-bread.md",
+    "docs/bacon-'n'-pasta-parmesan.md",
+    "temp.md",
     "site/search/search_index.json",
     "site/search",
+    "site/whole-wheat-rolls/index.html",
+    "site/whole-wheat-rolls",
+    "site/white-chicken-chili/index.html",
+    "site/white-chicken-chili",
     "site/vanilla-sweet-cream/index.html",
     "site/vanilla-sweet-cream",
-    "site/roasted-broccoli/index.html",
-    "site/roasted-broccoli",
-    "site/ham-and-gruyere-egg-bites/index.html",
-    "site/ham-and-gruyere-egg-bites",
-    "site/guacamole/index.html",
-    "site/guacamole",
+    "site/sticky-buns/index.html",
+    "site/sticky-buns",
     "site/assets/images/favicon.png",
-    "docs/carnitas-spice-mixture.md",
-    "docs/cold-brew.md",
-    "docs/roasted-broccoli.md",
-    "docs/cuban-black-beans.md",
-    "docs/roasted broccoli.md",
-    "docs/guacamole.md",
-    "docs/Cuban-black-beans.md",
-    "docs/Carnitas Spice Mixture.md",
-    "docs/broccoli-salad.md",
-    "docs/chicken-and-broccoli-braid.md",
-    "docs/ham-and-gruyere-egg-bites.md",
-    "docs/ground-beef-chili.md",
-    "docs/green-beans-with-caramelized-shallots.md",
-    "docs/easy-chicken-divan.md",
-    "docs/chocolate-chip-cookies.md",
-    "docs/cheeseburger-soup.md",
-    "docs/fluff-'n'-blueberries.md",
-    "templates/recipe.md",
-    "docs/Fluff 'n' Blueberries.md",
-    "docs/egg-wash.md",
-    "docs/Chicken and Broccoli Braid.md",
-    "docs/cinnamon-rolls.md",
-    "docs/gingerbread-cookies.md"
+    "docs/spaghetti-sauce.md",
+    "docs/cherry-almond-amish-sugar-cookies.md",
+    "docs/granola.md",
+    "docs/healthy-yummy-nobakes.md",
+    "docs/chocolate-logs.md",
+    "docs/homemade-ranch.md",
+    "docs/split-pea-soup.md",
+    "docs/pumpkin-bars.md",
+    "docs/gold-bars.md",
+    "docs/english-muffins.md",
+    "docs/curried-tuna-salad-with-apples-and-currents.md",
+    "docs/breakfast-casserole.md",
+    "docs/sticky-buns.md",
+    "docs/whole-wheat-rolls.md",
+    "docs/cracker-stuff.md"
   ]
 }

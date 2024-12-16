@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Cherry Almond Amish Sugar Cookies
 
 ## Ingredients
 

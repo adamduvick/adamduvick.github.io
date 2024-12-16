@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Chicken and Wild Rice Soup
 
 ## Ingredients
 

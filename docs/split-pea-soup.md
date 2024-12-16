@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# Split Pea Soup
 
 ## Ingredients
 
