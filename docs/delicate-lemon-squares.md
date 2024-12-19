@@ -18,7 +18,7 @@
 
 ## Directions
 
-1. Preheat oven to 350 /Fahrenheit
+1. Preheat oven to 350℉
 2. Cut butter into flour and powdered sugar; Press mixture evenly into a 13 x 9 pan.
 3. Bake for 15 minutes.
 4. Meanwhile, combine eggs, zest, juice, and sugar; beat well.

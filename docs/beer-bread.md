@@ -11,7 +11,7 @@
 
 ## Directions
 
-1. Preheat oven to 400 /Fahrenheit.
+1. Preheat oven to 400℉.
 2. Combine ingredients and place dough into a bread pan.
 3. Bake for 50–60 minutes.
 

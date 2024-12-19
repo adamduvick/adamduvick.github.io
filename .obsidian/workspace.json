@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/spaghetti-sauce.md",
+                "file": "docs/basic-sourdough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spaghetti-sauce"
+              "title": "basic-sourdough"
             }
           }
         ]
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,17 +167,23 @@
   },
   "active": "f47ee823b8359749",
   "lastOpenFiles": [
-    "docs/delicate-lemon-squares.md",
-    "docs/peanut-butter-bon-bons.md",
-    "docs/fluff-'n'-blueberries.md",
-    "docs/garlic-parmesan-baked-halibut.md",
-    "docs/italian-beef.md",
-    "docs/mary's-sloppy-joes.md",
-    "docs/white-chicken-chili.md",
-    "docs/kim's-coleslaw.md",
-    "docs/beer-bread.md",
-    "docs/bacon-'n'-pasta-parmesan.md",
-    "temp.md",
+    "docs/cracker-stuff.md",
+    "docs/healthy-yummy-no-bakes.md",
+    "docs/broccoli-salad.md",
+    "docs/cheeseburger-soup.md",
+    "docs/easy-chicken-divan.md",
+    "docs/chocolate-logs.md",
+    "docs/gold-bars.md",
+    "docs/whole-wheat-rolls.md",
+    "docs/index.md",
+    "docs/whole-wheat-bread.md",
+    "docs/sticky-buns.md",
+    "docs/pumpkin-bars.md",
+    "docs/cherry-almond-amish-sugar-cookies.md",
+    "docs/overnight-cinnamon-rolls.md",
+    "docs/english-muffins.md",
+    "docs/chicken-and-wild-rice-soup.md",
+    "docs/curried-tuna-salad-with-apples-and-currants.md",
     "site/search/search_index.json",
     "site/search",
     "site/whole-wheat-rolls/index.html",
@@ -188,20 +195,14 @@
     "site/sticky-buns/index.html",
     "site/sticky-buns",
     "site/assets/images/favicon.png",
-    "docs/spaghetti-sauce.md",
-    "docs/cherry-almond-amish-sugar-cookies.md",
-    "docs/granola.md",
-    "docs/healthy-yummy-nobakes.md",
-    "docs/chocolate-logs.md",
+    "docs/chicken-and-broccoli-braid.md",
     "docs/homemade-ranch.md",
+    "docs/japanese-coleslaw.md",
     "docs/split-pea-soup.md",
-    "docs/pumpkin-bars.md",
-    "docs/gold-bars.md",
-    "docs/english-muffins.md",
-    "docs/curried-tuna-salad-with-apples-and-currents.md",
+    "docs/granola.md",
     "docs/breakfast-casserole.md",
-    "docs/sticky-buns.md",
-    "docs/whole-wheat-rolls.md",
-    "docs/cracker-stuff.md"
+    "docs/garlic-parmesan-baked-halibut.md",
+    "docs/delicate-lemon-squares.md",
+    "docs/beer-bread.md"
   ]
 }

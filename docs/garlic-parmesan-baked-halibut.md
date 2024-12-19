@@ -20,7 +20,7 @@ Topping:
 
 ## Directions
 
-1. Preheat oven to 450 /Fahrenheit.
+1. Preheat oven to 450℉.
 2. Season fish with salt, pepper, and lemon juice.
 3. Bake for 6 minutes.
 4. Meanwhile, mix together the topping ingredients to form sauce.
