@@ -1,4 +1,4 @@
-# cold-brew
+# Cold Brew
 
 ## Ingredients
 

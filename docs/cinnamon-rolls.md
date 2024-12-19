@@ -1,3 +1,5 @@
+# Cinnamon Rolls
+
 ### Step 1: Gather ingredients and tools
 
 First, we need to gather up our ingredients and tools. For these amazing homemade cinnamon rolls from scratch you will need the following:

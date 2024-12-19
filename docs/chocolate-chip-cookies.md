@@ -1,3 +1,5 @@
+# Chocolate Chip Cookies
+
 ## Step 1: Gather all the ingredients
 
 ![Several ingredients like sugar, butter, chocolate chips, in glass bowls on a wooden cutting board.](https://www.inthekitchenwithmatt.com/wp-content/uploads/2022/06/ingredients-for-best-chocolate-chip-cookies.webp "Several ingredients like sugar, butter, chocolate chips, in glass bowls on a wooden cutting board.")

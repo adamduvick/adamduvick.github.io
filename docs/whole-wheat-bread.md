@@ -1,4 +1,4 @@
-# whole-wheat-bread
+# Whole Wheat Bread
 
 ## Ingredients
 

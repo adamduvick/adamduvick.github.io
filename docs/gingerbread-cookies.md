@@ -1,3 +1,5 @@
+# Gingerbread Cookies
+
 ## Step 1: Gather the ingredients
 
 ![Several ingredients in glass bowls on top of a wooden table.](https://inthekitchenwithmatt.com/wp-content/uploads/2020/07/ingredients-for-gingerbread-cookies.jpg "Several ingredients in glass bowls on top of a wooden table.")
