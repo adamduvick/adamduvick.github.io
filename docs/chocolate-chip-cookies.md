@@ -32,7 +32,7 @@ In order to make these fantastic chewy chocolate chip cookies you will need:
 
 ![Brown and white sugar in a large bowl with butter and a mixer](https://www.inthekitchenwithmatt.com/wp-content/uploads/2022/06/creaming-butter-and-the-sugar.webp "Brown and white sugar in a large bowl with butter and a mixer")
 
-Preheat the oven to 350 degrees F. (177 C).
+Preheat the oven to 350 ℉. (177 ℃).
 
 Then cream together the softened butter with the white and brown sugars with a hand mixer or stand mixer. Don’t have a mixer? That is okay, you can use a wooden spoon.
 
@@ -68,13 +68,13 @@ You may bake the cookie dough now, or chill it for about 30 minutes. I don’t u
 
 ![Scooping chew chocolate chip cookies dough onto a sheet pan with a silicone baking mat.](https://www.inthekitchenwithmatt.com/wp-content/uploads/2022/06/scooping-dough-onto-cookie-sheet.webp "Scooping chew chocolate chip cookies dough onto a sheet pan with a silicone baking mat.")
 
-Now take a spoon or small cup or ice cream scoop, and get about 2 tablespoons worth of dough, depending on the size of the cookie that you want, and then place on your cookie sheet lined with parchment paper or an [**Artisan Mat (**](http://amzn.to/2hKg1at)[**Silicone**](http://amzn.to/2hKg1at) [**Baking Mat)**](http://amzn.to/2hKg1at).
+Now take a spoon or small cup or ice cream scoop, and get about 2 tbsp worth of dough, depending on the size of the cookie that you want, and then place on your cookie sheet lined with parchment paper or an [**Artisan Mat (**](http://amzn.to/2hKg1at)[**Silicone**](http://amzn.to/2hKg1at) [**Baking Mat)**](http://amzn.to/2hKg1at).
 
 ![Balls of chocolate chip cookie dough on a cookie sheet ready to be baked.](https://www.inthekitchenwithmatt.com/wp-content/uploads/2022/06/cookies-ready-to-be-baked.webp "Balls of chocolate chip cookie dough on a cookie sheet ready to be baked.")
 
 I absolutely love my baking mats, it lasts a super long time, is very easy to clean, and helps to prevent the cookies from burning on the bottom. Parchment paper will work great too. Read my **[silicone baking mat review here](https://www.inthekitchenwithmatt.com/silicone-baking-mats-are-they-worth-it)** if you want.
 
-**Bake the cookies in the oven at 350 degrees F for 10 to 16 minutes depending on the size of the cookie, start with 10 minutes and go from there.**
+**Bake the cookies in the oven at 350 ℉ for 10 to 16 minutes depending on the size of the cookie, start with 10 minutes and go from there.**
 
 ![](https://www.inthekitchenwithmatt.com/wp-content/uploads/2022/06/baked-cookies.webp)
 

@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-- 1/2 lb. ground beef
-- 3/4 c. chopped onion
-- 3/4 c. shredded carrots
-- 3/4 c. diced celery
-- 1 tsp. basil
-- 1 tsp. dried parsley flakes
-- 4 tbsp. butter, divided
-- 3 c. chicken broth
-- 4 c. diced peeled potatoes
-- 1/4 c. American cheese, cubed
-- 1 1/2 c. milk
-- 3/4 tsp. salt
-- 1/2 tsp. pepper
-- 1/4 c. sour cream
+- ½ lb ground beef
+- ¾ c chopped onion
+- ¾ c shredded carrots
+- ¾ c diced celery
+- 1 tsp basil
+- 1 tsp dried parsley flakes
+- 4 tbsp butter, divided
+- 3 c chicken broth
+- 4 c diced peeled potatoes
+- ¼ c American cheese, cubed
+- 1 ½ c milk
+- ¾ tsp salt
+- ½ tsp pepper
+- ¼ c sour cream
 
 ## Directions
 

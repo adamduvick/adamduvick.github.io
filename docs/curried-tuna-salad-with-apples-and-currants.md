@@ -3,17 +3,17 @@
 ## Ingredients
 
 - 2 cans solid white tuna
-- 1/4 c. minced celery
-- 2 T. juice from 1 lemon
-- 2 T. minced red onion
+- ¼ c minced celery
+- 2 tbsp juice from 1 lemon
+- 2 tbsp minced red onion
 - 1 medium firm juicy apple
-- 1/4 c. currants[^1]
-- 2 T. fresh basil, minced
-- 1/2 t. salt
-- 1/4 t. pepper
-- 1/4 t. Dijon mustard
-- 1 T. curry powder
-- 1/2 c. mayo
+- ¼ c currants[^1]
+- 2 tbsp fresh basil, minced
+- ½ tsp salt
+- ¼ tsp pepper
+- ¼ tsp Dijon mustard
+- 1 tbsp curry powder
+- ½ c mayo
 
 ## Directions
 

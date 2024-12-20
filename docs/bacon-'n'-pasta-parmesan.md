@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 1 lb. bacon, fried & crumbled
-- 8 oz. pasta cooked
-- 2 oz. slivered almonds
+- 1 lb bacon, fried & crumbled
+- 8 oz pasta cooked
+- 2 oz slivered almonds
 - 1 stick of butter (or to taste)
-- 4 oz. Parmesan cheese, grated
-- 1 lb. french style green beans, cooked until tender crisp
+- 4 oz Parmesan cheese, grated
+- 1 lb french style green beans, cooked until tender crisp
 
 ## Directions
 

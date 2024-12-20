@@ -37,13 +37,13 @@ If you want a cream cheese frosting recipe check out this **[no-knead cinnamon 
 
 ![Batch of cinnamon rolls in a pan with glaze on them.](https://inthekitchenwithmatt.com/wp-content/uploads/2019/12/cinnamon-rolls-close-up.jpg)
 
-Combine the water and milk in a microwave-safe bowl and heat the liquid up to around 105 to 115 degrees F (40 to 44 C). Generally, it only takes 30 seconds or so. Optionally you can certainly heat up it in a pot on the stovetop. The [**active dry yeast**](https://amzn.to/30ikaNF) needs warm liquid to active it.
+Combine the water and milk in a microwave-safe bowl and heat the liquid up to around 105 to 115 ℉ (40 to 44 ℃). Generally, it only takes 30 seconds or so. Optionally you can certainly heat up it in a pot on the stovetop. The [**active dry yeast**](https://amzn.to/30ikaNF) needs warm liquid to active it.
 
 Some people prefer to use [**rapid rise yeast**](https://amzn.to/2QnaexP) or instant yeast which is totally fine you can just add it to the dry ingredients. I will ALWAYS active my yeast first however because I want to make sure the yeast is not bad or old and this is a full-proof way to know the yeast is good.
 
 ### Step 3: Add Warm Liquid to Bowl
 
-Now, add the warm liquid to a large bowl and sprinkle the yeast on top. Add in about a teaspoon of your white granulated sugar, it will provide some food for the yeast. While not absolutely necessary I always add it in. I need my yeast happy! Set the yeast mixture aside and allow it to do its thing for 5 to 10 minutes.
+Now, add the warm liquid to a large bowl and sprinkle the yeast on top. Add in about a tsp of your white granulated sugar, it will provide some food for the yeast. While not absolutely necessary I always add it in. I need my yeast happy! Set the yeast mixture aside and allow it to do its thing for 5 to 10 minutes.
 
 ### Step 4: Activated yeast and melted butter
 
@@ -89,7 +89,7 @@ After the dough has risen and is about double in size, roll out the dough into a
 
 Now time to create the filling. Place the cinnamon, brown sugar, and vanilla extract in a bowl and combine them with a whisk or spoon.
 
-After that take a couple of tablespoons of softened butter and baste the top of the dough. Then just sprinkle on the filling until it covers the whole thing.
+After that take a couple of tbsp of softened butter and baste the top of the dough. Then just sprinkle on the filling until it covers the whole thing.
 
 ![Hand with metal spoon placing cinnamon and sugar on buttered dough.](https://inthekitchenwithmatt.com/wp-content/uploads/2019/12/sprinkling-sugar-and-cinnamon-on-cinnamon-roll-dough.jpg)
 
@@ -111,7 +111,7 @@ Once the pan is full of rolls and ready to go, cover it with plastic wrap or a d
 
 ### Step 10: Baste and Bake Homemade Cinnamon Rolls
 
-Next, we brush on butter to the tops of the cinnamon rolls, which will add flavor and help them get a nice golden brown color. Bake the rolls in a preheated at 375 degrees F (190 C), for around 15 to 20 minutes. When they are done they will be a nice golden brown on the tops.
+Next, we brush on butter to the tops of the cinnamon rolls, which will add flavor and help them get a nice golden brown color. Bake the rolls in a preheated at 375 ℉ (190 ℃), for around 15 to 20 minutes. When they are done they will be a nice golden brown on the tops.
 
 Remove them from the oven and allow them to cool for 10 to 15 minutes before adding the glaze or cream cheese frosting on top.
 

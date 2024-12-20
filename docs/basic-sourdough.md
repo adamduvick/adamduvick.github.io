@@ -1,13 +1,5 @@
 # Basic Sourdough
 
-## Ingredients
-
-- 
-
-## Directions
-
-1. 
-
 ## Equipment Needed
 
 - Dutch oven
@@ -17,10 +9,10 @@
 
 ## Timeline
 
-Total Time: 36-39 hours
+Total Time: 36–39 hours
 
 - Feed Starter: 24 hours
-- Build Leaven: 12-14 hours
+- Build Leaven: 12–14 hours
 - Final Dough: 30 minutes to 3 hours
 - Baking: 35 minutes
 
@@ -28,9 +20,9 @@ Total Time: 36-39 hours
 
 ### Ingredients
 
-- 60g flour
-- 60g water
-- 15g active sourdough starter
+- 60 g flour
+- 60 g water
+- 15 g active sourdough starter
 
 ### Instructions
 
@@ -38,13 +30,13 @@ Total Time: 36-39 hours
 2. Stretch and fold 3 times during the fermentation period
 3. Bulk ferment in refrigerator for up to 24 hours
 
-## Stage 2: Build Leaven (12-14 hours)
+## Stage 2: Build Leaven (12–14 hours)
 
 ### Ingredients
 
-- 125g water
-- 125g flour
-- 25g starter from Stage 1
+- 125 g water
+- 125 g flour
+- 25 g starter from Stage 1
 
 ### Instructions
 
@@ -56,10 +48,10 @@ Total Time: 36-39 hours
 
 ### Ingredients
 
-- 500g water
-- 250g leaven (from Stage 2)
-- 800g flour
-- 15g salt
+- 500 g water
+- 250 g leaven (from Stage 2)
+- 800 g flour
+- 15 g salt
 
 ### Instructions
 
@@ -69,8 +61,8 @@ Total Time: 36-39 hours
 
 ## Baking Instructions
 
-1. Preheat Dutch oven to 500°F (260°C)
-2. Reduce temperature to 450°F (230°C)
+1. Preheat Dutch oven to 500 ℉ (260 ℃)
+2. Reduce temperature to 450 ℉ (230 ℃)
 3. Bake covered for 20 minutes
 4. Uncover and bake for an additional 15 minutes
 
@@ -83,5 +75,3 @@ Total Time: 36-39 hours
 ---
 
 source: Mom
-
-attribution: 

@@ -5,8 +5,8 @@
 - 2 bunches of broccoli
 - 3 stalks of celery
 - 1 can black of the black olives
-- 1 cup of mayonnaise
-- 2 teaspoons lemon juice
+- 1 c of mayonnaise
+- 2 tsp lemon juice
 
 ## Directions
 
