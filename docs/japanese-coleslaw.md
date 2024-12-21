@@ -6,15 +6,15 @@
 
 - 1 head cabbage, thinly sliced
 - 1 small bunch green onions (tops, too), chopped finely
-- 1/2 c. slices almonds
-- 1/4 c. sunflower seeds
-- 1 pkg. ramen noodles, broken into small pieces
+- ½ c slices almonds
+- ¼ c sunflower seeds
+- 1 pkg ramen noodles, broken into small pieces
 
 **Dressing**:
 
-- 1/2 c. sugar
-- 1/2 c. oil
-- 1/4 c. vinegar
+- ½ c sugar
+- ½ c oil
+- ¼ c vinegar
 - seasoning packet from ramen
 
 ## Directions

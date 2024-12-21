@@ -4,22 +4,22 @@
 
 **Base:**
 
-- 2 c. graham crackers crumbs
-- 1/2 c. melted butter
+- 2 c graham crackers crumbs
+- ½ c melted butter
 
 **Blueberries:**
 
-- 1/2 c. sugar
-- 3 c. fresh or frozen blueberries
-- 1/4 c. cornstarch
-- 1/2 c. water
+- ½ c sugar
+- 3 c fresh or frozen blueberries
+- ¼ c cornstarch
+- ½ c water
 
 **Fluff:**
 
-- 2 (8 oz.) pkg. softened cream cheese
-- 1 1/2 c. sugar
-- 2 tsp. vanilla
-- 1 c. whipping cream
+- 2 (8 oz) pkg. softened cream cheese
+- 1 ½ c sugar
+- 2 tsp vanilla
+- 1 c whipping cream
 
 ## Directions
 
@@ -30,7 +30,7 @@
 
 2. **Prepare the base**
 
-   1. Combine graham cracker crumbs and melted butter. Set aside 1/2 c. Press remaining into a 13 x 9 inch pan.
+   1. Combine graham cracker crumbs and melted butter. Set aside ½ c Press remaining into a 13 x 9 inch pan.
 
 3. **Prepare the fluff**
 
@@ -41,8 +41,8 @@
 
    1. Spoon half of the fluff mixture over crust, then add the blueberries.
    2. Add the remaining fluff mixture and sprinkle reserved graham cracker crumbs.
-   3. Cover and chill for 2-24 hours before serving.
+   3. Cover and chill for 2–24 hours before serving.
 
 ---
 
-source:  Mom
+source: Mom

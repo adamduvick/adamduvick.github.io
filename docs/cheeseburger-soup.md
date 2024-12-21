@@ -5,7 +5,7 @@
 - ½ lb ground beef
 - ¾ c chopped onion
 - ¾ c shredded carrots
-- ¾ c diced celery
+- ¾ c diced celery`
 - 1 tsp basil
 - 1 tsp dried parsley flakes
 - 4 tbsp butter, divided

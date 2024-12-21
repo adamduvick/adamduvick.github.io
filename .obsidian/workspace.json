@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cheeseburger-soup.md",
+                "file": "docs/pasta-with-browned-butter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cheeseburger-soup"
+              "title": "pasta-with-browned-butter"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "f47ee823b8359749",
   "lastOpenFiles": [
+    "docs/cheeseburger-soup.md",
     "docs/chocolate-logs.md",
     "docs/gold-bars.md",
     "docs/chicken-and-broccoli-braid.md",
@@ -195,7 +196,6 @@
     "docs/overnight-cinnamon-rolls.md",
     "docs/peanut-butter-bonbons.md",
     "docs/roasted-broccoli.md",
-    "docs/spaghetti-sauce.md",
     "img/beef brisket.png",
     "img/whip cream salad.jpg",
     "img/veggie pizza.jpg",

@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 lb. ground beef
-- 1/2 tbsp. onion powder[^1]
-- 1/2 tsp. salt
-- 1/2 tsp. pepper
-- 1/2 c. + 1 tbsp. ketchup
-- 2 1/4 tsp. mustard
-- 2 1/4 tsp. Worsteshire sauce
-- 1/2 tbsp. vinegar
-- 1/2 tbsp. brown sugar
+- 1 lb ground beef
+- ½ tbsp onion powder[^1]
+- ½ tsp salt
+- ½ tsp pepper
+- ½ c + 1 tbsp ketchup
+- 2 ¼ tsp mustard
+- 2 ¼ tsp Worcestershire sauce
+- ½ tbsp vinegar
+- ½ tbsp brown sugar
 
 ## Directions
 
@@ -24,4 +24,4 @@ source: Kim Kosterman
 
 attribution: Mary
 
-[^1]: Can substitute onion powder with 1/2. chopped onion.
+[^1]: Can substitute onion powder with ½ c chopped onion.

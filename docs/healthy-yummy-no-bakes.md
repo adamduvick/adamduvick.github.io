@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 1¾ cups old-fashioned rolled oats (to soak)
-- ½ cup almond milk
-- 3 tablespoons butter
-- ⅓ cup natural peanut butter
-- ⅓ cup Lily's (no sugar) chocolate chips
-- ⅓ cup Gentle Sweet or other low-carb sweetener
+- 1¾ c old-fashioned rolled oats (to soak)
+- ½ c almond milk
+- 3 tbsp butter
+- ⅓ c natural peanut butter
+- ⅓ c Lily's (no sugar) chocolate chips
+- ⅓ c Gentle Sweet or other low-carb sweetener
 - 1 packet/scoop chocolate protein powder
 
 ## Directions

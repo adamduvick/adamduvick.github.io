@@ -5,9 +5,9 @@
 - 24 frozen dinner rolls
 - 1 package butterscotch pudding mix (not instant)
 - 1 stick butter, melted
-- 1/2 cup chopped pecans
-- 3/4 cup dark brown sugar
-- 1 teaspoon cinnamon
+- ½ c chopped pecans
+- ¾ c dark brown sugar
+- 1 tsp cinnamon
 
 ## Directions
 
@@ -18,7 +18,7 @@
 5. Sprinkle the chopped pecans over the butter layer.
 6. In a small bowl, combine the dark brown sugar and cinnamon. Sprinkle this mixture over the top.
 7. Cover the pan and let the rolls rise overnight.
-8. Preheat oven to 350°F (175°C).
+8. Preheat oven to 350 ℉ (175 ℃).
 9. Bake for 30 minutes.
 10. Immediately turn upside down onto a serving plate and serve warm.
 

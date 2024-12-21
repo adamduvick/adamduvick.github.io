@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 1 egg
-- 1 tbsp. water (or other liquid)
+- 1 tbsp water (or other liquid)
 - pinch of salt
 
 ## Directions

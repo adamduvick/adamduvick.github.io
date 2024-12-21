@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 2 c. buttermilk (or 1 1/2 c. for thicker dressing)
-- 1 c. mayo
-- 1 t. onion powder
-- 1 t. garlic powder
-- 2 T. Trader Joe's ranch powder
+- 2 c buttermilk (or 1 ½ c for thicker dressing)
+- 1 c mayo
+- 1 tsp onion powder
+- 1 tsp garlic powder
+- 2 tbsp Trader Joe's ranch powder
 - 3 drops stevia clear (optional)
 
 ## Directions

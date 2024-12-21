@@ -3,8 +3,8 @@
 ## Ingredients
 
 - 2 ripe avocados
-- 1/4 red pepper
-- 3/4 cup red onion
+- ¼ red pepper
+- ¾ c red onion
 - 2 big or 3 small cloves of garlic
 - About 15 springs of fresh cilantro
 - A pinch and a half of taco seasoning

@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 3–5 lb. rump roast
+- 3–5 lb rump roast
 - garlic cloves, sliced
-- 1/2 c. pepperoncini juice
-- 1/2 c. water
+- ½ c pepperoncini juice
+- ½ c water
 - A few pepperoncinis
 
 ## Directions

@@ -4,14 +4,14 @@
 
 **Filling:**
 
-- 1 c. peanut butter
-- 1/2 c. butter, softened
-- 2 c. powdered sugar
+- 1 c peanut butter
+- ½ c butter, softened
+- 2 c powdered sugar
 
 **Coating:**
 
-- 1 c. chocolate chips[^1]
-- 1 tbsp. shortening
+- 1 c chocolate chips[^1]
+- 1 tbsp shortening
 
 ## Directions
 

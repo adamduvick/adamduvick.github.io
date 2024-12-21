@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- One pound broccoli cut into bite size pieces (stocks can be cut into 1/4 inch slices)
+- One lb broccoli cut into bite size pieces (stocks can be cut into ¼ inch slices)
 - 2 tbsp olive oil
 - 2 cloves crushed garlic
 
@@ -16,6 +16,4 @@
 
 ---
 
-source: Adams
-
-attribution: 
+source: Adam

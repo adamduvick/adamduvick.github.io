@@ -49,7 +49,7 @@ Wrap the dough tightly in plastic wrap and then place it in the fridge to chill 
 
 ![Rolled out gingerbread cookie dough on a table with a gingerbread man cookie cutter](https://inthekitchenwithmatt.com/wp-content/uploads/2020/07/roll-and-cut-out-the-gingerbread-cookies.jpg "Rolled out gingerbread cookie dough on a table with a gingerbread man cookie cutter")
 
-Preheat the oven to 375 F/190 C. With the rack in the middle position.
+Preheat the oven to 375 ℉/190 ℃. With the rack in the middle position.
 
 Remove the dough from the fridge and then cut each disc in half again, so you will wind up with 4 separate chunks of gingerbread cookie dough. Again, this just makes it easier to roll out.
 
