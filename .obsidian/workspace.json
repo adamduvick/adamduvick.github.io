@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pasta-with-browned-butter.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pasta-with-browned-butter"
+              "title": "index"
             }
           }
         ]
@@ -167,9 +167,21 @@
   },
   "active": "f47ee823b8359749",
   "lastOpenFiles": [
-    "docs/cheeseburger-soup.md",
-    "docs/chocolate-logs.md",
+    "docs/__whip-cream-salad.md",
+    "docs/slow-cooker-bbq-pulled-chicken.md",
+    "docs/veggie-pizza.md",
+    "docs/tapioca-surprise.md",
+    "docs/whip-cream-salad.md",
+    "docs/index.md",
+    "docs/__veggie-pizza.md",
+    "docs/__tapioca-surprise.md",
+    "docs/__slow-cooker-bbq-pulled-chicken.md",
+    "img/slow cooker bbq ingredients.jpeg",
+    "img/2D592475-EAB3-4E35-8471-C3D99851BD31_4_5005_c.jpeg",
     "docs/gold-bars.md",
+    "docs/chocolate-logs.md",
+    "docs/cheeseburger-soup.md",
+    "docs/pasta-with-browned-butter.md",
     "docs/chicken-and-broccoli-braid.md",
     "docs/chicken-&-wild-rice-soup.md",
     "docs/curried-tuna-salad-with-apples-and-currants.md",
@@ -184,24 +196,13 @@
     "docs/granola.md",
     "docs/guacamole.md",
     "docs/ham-and-gruyere-egg-bites.md",
-    "docs/homemade-ranch.md",
-    "docs/italian-beef.md",
-    "docs/japanese-coleslaw.md",
-    "docs/kim's-coleslaw.md",
-    "docs/mary's-sloppy-joes.md",
-    "docs/pumpkin-bars.md",
     "img/pams cinn rolls back.jpg",
     "img/pams cinn rolls cherry amish pumpkin bars.jpg",
-    "docs/split-pea-soup.md",
-    "docs/overnight-cinnamon-rolls.md",
-    "docs/peanut-butter-bonbons.md",
-    "docs/roasted-broccoli.md",
     "img/beef brisket.png",
     "img/whip cream salad.jpg",
     "img/veggie pizza.jpg",
     "img/tapioca surprise.jpg",
     "img/rumaki.jpg",
-    "img/chocolate chip tea cakes.jpg",
     "site/search/search_index.json",
     "site/search",
     "site/whole-wheat-rolls/index.html",
@@ -211,7 +212,6 @@
     "site/white-chicken-chili/index.html",
     "site/white-chicken-chili",
     "site/whip-cream-salad/index.html",
-    "site/whip-cream-salad",
-    "site/assets/images/favicon.png"
+    "site/whip-cream-salad"
   ]
 }
