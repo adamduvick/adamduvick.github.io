@@ -17,7 +17,7 @@
 ### Icing
 
 - 2 tbsp butter (melted)
-- ½ c + maraschino cherry juice
+- ⅛ c maraschino cherry juice (add more to taste as desired)
 - ½ tsp each almond & cherry extract
 - 2–3 c powdered sugar
 
@@ -26,12 +26,10 @@
 1. Beat butter, oil & sugars until combined.
 2. Beat in eggs, extracts, cherries (make sure they're very dry).
 3. Combine dry ingredients and gradually add to wet mixture (don't overmix).
-4. Bake at 375℉ for 8–11 minutes or until lightly browned edges.
+4. Bake at 375 ℉ for 8–11 minutes or until lightly browned edges.
 
 Yields 3 dozen.
 
 ---
 
-source: 
-
-attribution: 
+source: Mom

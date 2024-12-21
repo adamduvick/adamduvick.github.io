@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "b9018846cc3b1136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/chicken-&-wild-rice-soup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chicken-&-wild-rice-soup"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,14 +180,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f47ee823b8359749",
+  "active": "b9018846cc3b1136",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/cherry-almond-amish-sugar-cookies.md",
+    "docs/carnitas.md",
+    "docs/carnitas-spice-mixture.md",
+    "docs/cantonese-style-black-pepper-beef-with-potatoes.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/whole-wheat-rolls/index.html",
+    "site/whole-wheat-rolls",
+    "site/whole-wheat-bread/index.html",
+    "site/whole-wheat-bread",
+    "site/white-chicken-chili/index.html",
+    "site/white-chicken-chili",
+    "site/whip-cream-salad/index.html",
+    "site/whip-cream-salad",
+    "site/assets/images/favicon.png",
+    "docs/baked-oatmeal.md",
     "docs/__whip-cream-salad.md",
     "docs/slow-cooker-bbq-pulled-chicken.md",
     "docs/veggie-pizza.md",
     "docs/tapioca-surprise.md",
     "docs/whip-cream-salad.md",
-    "docs/index.md",
     "docs/__veggie-pizza.md",
     "docs/__tapioca-surprise.md",
     "docs/__slow-cooker-bbq-pulled-chicken.md",
@@ -186,32 +217,16 @@
     "docs/chicken-&-wild-rice-soup.md",
     "docs/curried-tuna-salad-with-apples-and-currants.md",
     "img/chicken divan.jpg",
-    "docs/baked-oatmeal.md",
     "docs/cream-scones.md",
     "docs/cuban-black-beans.md",
     "docs/delicate-lemon-squares.md",
     "docs/easy-chicken-divan.md",
     "docs/fluff-'n'-blueberries.md",
-    "docs/garlic-parmesan-baked-halibut.md",
-    "docs/granola.md",
-    "docs/guacamole.md",
-    "docs/ham-and-gruyere-egg-bites.md",
     "img/pams cinn rolls back.jpg",
     "img/pams cinn rolls cherry amish pumpkin bars.jpg",
     "img/beef brisket.png",
     "img/whip cream salad.jpg",
     "img/veggie pizza.jpg",
-    "img/tapioca surprise.jpg",
-    "img/rumaki.jpg",
-    "site/search/search_index.json",
-    "site/search",
-    "site/whole-wheat-rolls/index.html",
-    "site/whole-wheat-rolls",
-    "site/whole-wheat-bread/index.html",
-    "site/whole-wheat-bread",
-    "site/white-chicken-chili/index.html",
-    "site/white-chicken-chili",
-    "site/whip-cream-salad/index.html",
-    "site/whip-cream-salad"
+    "img/tapioca surprise.jpg"
   ]
 }

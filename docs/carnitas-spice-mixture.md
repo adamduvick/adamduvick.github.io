@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 80 g. salt
-- 30 g. sugar
-- 30 g. paprika
-- 15 g. black pepper
+- 80 g salt
+- 30 g sugar
+- 30 g paprika
+- 15 g black pepper
 
 ## Directions
 
@@ -14,5 +14,3 @@
 ---
 
 source: Adam
-
-attribution: 
