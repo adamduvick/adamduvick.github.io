@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ground-beef-chili.md",
-                "mode": "preview",
+                "file": "Texas Canasta.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ground-beef-chili"
+              "title": "Texas Canasta"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/roasted broccoli.md",
+            "file": "Texas Canasta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,29 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2458790043a402a3",
+  "active": "2da5000a33314d3c",
   "lastOpenFiles": [
-    "img/IMG_6825.jpg",
-    "img/IMG_6824.jpg",
-    "img/IMG_6823.jpg",
-    "img/IMG_6837.jpg",
-    "img/IMG_6822.jpg",
-    "img/IMG_6838.jpg",
-    "img/IMG_6829.jpg",
+    "Texas Canasta.md",
+    "docs/ground-beef-chili.md",
+    "img/chicken divan.jpg",
+    "img/chocolate chip muffins ingredients.jpeg",
+    "img/missippi roast step 3.jpeg",
+    "img/jills chili.jpg",
+    "docs/slow-cooker-bbq-pulled-chicken.md",
+    "img/batch of 9.jpg",
+    "img/english muffins.jpg",
+    "img/slow cooker chicken step 1.jpeg",
+    "img/tapioca surprise.jpg",
+    "img/Pasta with Browned Butter.jpg",
+    "docs/curried-tuna-salad-with-apples-and-currants.md",
+    "docs/jill’s-pretty-darn-good-white-chili.md",
+    "docs/healthy-yummy-no-bakes.md",
+    "img/cheeseburger soup.jpg",
+    "docs/pasta-with-browned-butter.md",
+    "docs/whip-cream-salad.md",
+    "docs/rolf’s-rumaki.md",
+    "docs/cream-scones.md",
+    "docs/the-best-pulled-pork-ever.md",
+    "docs/cantonese-style-black-pepper-beef-with-potatoes.md",
+    "docs/chocolate-chip-tea-cakes.md",
+    "docs/veggie-pizza.md",
+    "docs/tapioca-surprise.md",
+    "docs/best-ground-beef-chili.md",
+    "docs/best-barbecue-beef-brisket.md",
+    "docs/whole-wheat-bread.md",
+    "docs/mississippi-roast.md",
+    "docs/chicken-&-wild-rice-soup.md",
+    "docs/peanut-butter-bonbons.md",
+    "docs/baked-oatmeal.md",
+    "docs/chocolate-doughnut-muffins.md",
     "img",
-    "img/B42711EB-8396-4637-A430-EDDB160FB4C2.jpg",
-    "IMG_6838.jpg",
-    "IMG_6837.jpg",
-    "img/IMG_2712.jpg",
     "docs/roasted broccoli.md",
     "docs/carnitas-spice-mixture.md",
-    "docs/roasted-broccoli.md",
-    "docs/egg-wash.md",
-    "docs/chicken-and-broccoli-braid.md",
-    "docs/cuban-black-beans.md",
-    "docs/fluff-'n'-blueberries.md",
-    "docs/guacamole.md",
-    "docs/Cuban-black-beans.md",
-    "docs/cold-brew.md"
+    "docs/roasted-broccoli.md"
   ]
 }
