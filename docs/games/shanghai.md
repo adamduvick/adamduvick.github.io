@@ -1,4 +1,4 @@
-# Shanghai Rules
+# Shanghai
 
 Shanghai is a game played in seven rounds. Each round ends when a player successfully plays all their cards on the table, keeping one back for a final discard. Successfully playing all ones cards is called ***going out***. After a player ***goes out***, other players congratulate the winner of the round by offering a quarter and a compulsory "congratulations". All players count the cards remaining in their hands to determine their points.
 
@@ -16,10 +16,8 @@ Gameplay follows chart below.
 ```mermaid
 flowchart TD
     A([Start turn]) --> B[Pick up a card]
-    B -->|Top discard| C
-    B -->|Blind draw| C
-
-    C --> D{Can your hand of cards meet the round's objective?}
+    B -->|Top discard| D{Can your hand of cards meet the round's objective?}
+    B -->|Blind draw| D
 
     D -- Yes --> E{Have you gone down?}
     D -- No  --> Z[Discard to end turn]
