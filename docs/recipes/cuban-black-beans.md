@@ -20,6 +20,10 @@
 3. Add beans, water, and spices to pot; pressure-cook on high for 50 minutes; allow pressure to release naturally.
 4. For a thicker consistency, remove a cup of the beans; smash and stir back into pot; repeat until desired consistency is reached.
 
+If you soak the beans overnight, reduce the water in the recipe by 25%.
+Halve the salt
+Forget the sazon
+
 ---
 
 source: Adam

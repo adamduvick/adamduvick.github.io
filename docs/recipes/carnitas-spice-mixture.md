@@ -11,6 +11,8 @@
 
 1. Mix ingredients and place in an airtight container.
 
+I typically make a double batch as it fits nicely in a 2 c container.
+
 ---
 
 source: Adam
